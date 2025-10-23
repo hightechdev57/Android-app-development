@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:displayOptions">disableHome</item>
+
+
+        <!-- Window transitions from and to MainActivity -->
+        <item name="android:windowExitTransition">@android:transition/explode</item>
+        <item name="android:windowReenterTransition">@android:transition/slide_bottom</item>
+    </style>
+
+</resources>

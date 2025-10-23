@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HobbitContentProvider</string>
+    <string name="add_all">Add</string>
+    <string name="delete_all">Delete</string>
+    <string name="modify_all">Modify</string>
+</resources>
