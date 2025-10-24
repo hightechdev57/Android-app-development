@@ -1,2 +1,5 @@
-# Android-app-development
-This is Android application.
+Android App Development
+=======================
+
+This repository contains examples for the Android App Development MOOC
+Specialization on the Coursera platform.
